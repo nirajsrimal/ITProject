@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+File to search for a specific medicine using generic name and tradename
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
