@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+File for adding new medicines to the inventory list
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
