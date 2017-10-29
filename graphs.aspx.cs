@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+Adding graph showing purchase data
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
