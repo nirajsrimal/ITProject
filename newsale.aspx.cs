@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+File for buying medicines
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -75,7 +78,7 @@ public partial class newsale : System.Web.UI.Page
         count += 1;
         Session["rowcount"] = count;
     }
-    protected string RandomDigits(int length)
+    protected string RandomDigits(int length) //Generate Random numbers
     {
         Random random = new Random();
         string s = string.Empty;
